@@ -1,2 +1,2 @@
 # Python-problems
-Python problems with solution
+This repository contains python problems which covers the basics of python.
